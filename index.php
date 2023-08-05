@@ -5,7 +5,7 @@
 </head>
 <body>
     <div>
-        <label for="input-text">Fill Text:</label>
+        <label for="input-text">Fills Text:</label>
         <input type="text" id="input-text">
         <button onclick="checkWord()">Check</button>
     </div>
