@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Word Checker Demos</title>
+    <title>Word Checker Demo</title>
 </head>
 <body>
     <div>
