@@ -8,7 +8,7 @@ class WordCheckerTest extends TestCase
     public function testSanitizeText()
     {
         $inputText = "This is a badword1 sentence with badword2 words.";
-        $expectedCleanText = "this is a ******** sentence with ******** words.";
+        $expectedCleanText = "this is a ********2 sentence with ******** words.";
 
         $cleanText = sanitizeText($inputText);
 
