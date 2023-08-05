@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Word Checker Demo</title>
+    <title>Word Checker Demos</title>
     <!-- Add your CSS and other header elements as needed -->
 </head>
 <body>
